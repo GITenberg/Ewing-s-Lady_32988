@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1206
     wikipedia: http://en.wikipedia.org/wiki/Harry_Leon_Wilson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32988#Ewing-s-Lady
 gutenberg_issued: '2010-06-27'
 gutenberg_type: Text
 identifiers:
